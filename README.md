@@ -1,2 +1,2 @@
 # CallGPTPython
-### Only for API and Scoket
+### Only for API 
